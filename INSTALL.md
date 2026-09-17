@@ -24,6 +24,11 @@ After that it opens normally forever.
 Open Cleanly → click the broom in the menu bar → **Buy Licence…** → paste the license key
 from your Gumroad receipt → **Activate**. You get 7 days to try it first.
 
+**Seats:** the number of seats you chose on Gumroad is the number of Macs the key works on
+at the same time (1 seat = 1 Mac, 4 seats = 4 Macs). Use the same key on each Mac. To move
+a seat to a new Mac, open the licence window on the old one and click
+**Remove licence from this Mac** first.
+
 ## Updates
 
 Cleanly checks for updates once a day and offers them with one click. You can turn this off
