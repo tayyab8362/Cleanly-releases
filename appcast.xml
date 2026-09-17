@@ -1,7 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
-  <channel>
-    <title>Cleanly</title>
-    <!-- Items are added automatically by the release workflow. -->
-  </channel>
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Cleanly</title>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Thu, 17 Sep 2026 06:13:44 +0000</pubDate>
+            <link>https://github.com/tayyab8362/Cleanly-releases</link>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/tayyab8362/Cleanly-releases/main/Cleanly-1.0.0.dmg" length="1938260" type="application/octet-stream" sparkle:edSignature="yYoifm1EisDElWNWnEVl3W1u610DnTJr+WEzEWjo/fcZ5h2M1QWAWk4Ad0NqgvOnkAs60AYLt6y4/veL/Ao7DQ=="/>
+        </item>
+    </channel>
 </rss>
